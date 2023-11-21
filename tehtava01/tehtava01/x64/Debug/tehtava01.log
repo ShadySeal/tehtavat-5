@@ -1,0 +1,25 @@
+﻿  tehtava01.cpp
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(31,29): error C2665: 'Viisari::Viisari': no overloaded function could convert all the argument types
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(21,1): message : could be 'Viisari::Viisari(Viisari &&)'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(31,29): message : 'Viisari::Viisari(Viisari &&)': cannot convert argument 1 from 'int' to 'Viisari &&'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(31,30): message : Reason: cannot convert from 'int' to 'Viisari'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(21,1): message : or       'Viisari::Viisari(const Viisari &)'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(31,29): message : 'Viisari::Viisari(const Viisari &)': cannot convert argument 1 from 'int' to 'const Viisari &'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(31,30): message : Reason: cannot convert from 'int' to 'const Viisari'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(31,29): message : while trying to match the argument list '(int)'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(32,31): error C2665: 'Viisari::Viisari': no overloaded function could convert all the argument types
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(21,1): message : could be 'Viisari::Viisari(Viisari &&)'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(32,31): message : 'Viisari::Viisari(Viisari &&)': cannot convert argument 1 from 'int' to 'Viisari &&'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(32,32): message : Reason: cannot convert from 'int' to 'Viisari'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(21,1): message : or       'Viisari::Viisari(const Viisari &)'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(32,31): message : 'Viisari::Viisari(const Viisari &)': cannot convert argument 1 from 'int' to 'const Viisari &'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(32,32): message : Reason: cannot convert from 'int' to 'const Viisari'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(32,31): message : while trying to match the argument list '(int)'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(33,31): error C2665: 'Viisari::Viisari': no overloaded function could convert all the argument types
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(21,1): message : could be 'Viisari::Viisari(Viisari &&)'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(33,31): message : 'Viisari::Viisari(Viisari &&)': cannot convert argument 1 from 'int' to 'Viisari &&'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(33,32): message : Reason: cannot convert from 'int' to 'Viisari'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(21,1): message : or       'Viisari::Viisari(const Viisari &)'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(33,31): message : 'Viisari::Viisari(const Viisari &)': cannot convert argument 1 from 'int' to 'const Viisari &'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(33,32): message : Reason: cannot convert from 'int' to 'const Viisari'
+C:\Users\lvleh\Documents\C++\Tehtävä 5\tehtava01\tehtava01\tehtava01.cpp(33,31): message : while trying to match the argument list '(int)'
